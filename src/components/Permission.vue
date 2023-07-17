@@ -114,6 +114,7 @@ export default defineComponent({
     display: flex;
     justify-content: space-around;
     align-items: center;
+    height: 68px;
   }
   
   .grid-container {
