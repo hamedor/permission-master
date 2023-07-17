@@ -23,4 +23,9 @@
   padding-left: 10px;
   margin-left: 15px;
 }
+@media(max-width:800px){
+    .input{
+      width: 100px;
+    }
+  }
 </style>

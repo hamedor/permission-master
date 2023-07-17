@@ -1,6 +1,7 @@
 {
     "name": "sb_base",
     "version": "0.1.0",
+    "homepage": "https://hamedor.github.io/permission-master",
     "private": true,
     "scripts": {
         "serve": "vue-cli-service serve --mode production",

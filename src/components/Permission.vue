@@ -133,6 +133,11 @@ export default defineComponent({
     border-right: 1px solid rgba(222, 226, 231, 1);
     min-height: 500px;
   }
+  @media(max-width:800px){
+    .permission__button{
+      height: 120px;
+    }
+  }
 </style>
 
 

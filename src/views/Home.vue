@@ -129,5 +129,13 @@
 .table__item{
     width: 11.7rem;
 }
+@media(max-width:800px){
+    .app-container,
+    .table{
+        width: 90vw;
+        margin-left: unset;
+    }
+
+}
 
 </style>
